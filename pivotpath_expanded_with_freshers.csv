@@ -1,0 +1,1101 @@
+current_job_title,target_job_title,skills,education_level,years_of_experience,portfolio_strength,estimated_salary_usd,certifications,language_proficiency,remote_work_preference,projects_completed,communication_skills_rating
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,Microsoft Azure,"English, Spanish",Onsite,10,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,DataCamp Track,"English, German",Remote,10,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Microsoft Azure,"English, Spanish",Hybrid,2,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,Certified UX Designer,"English, German",Hybrid,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Google Data Analytics,"English, German",Onsite,10,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,Google Data Analytics,"English, French",Onsite,5,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,AWS Certified,"English, German",Onsite,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Google Data Analytics,"English, German",Hybrid,2,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,DataCamp Track,"English, Spanish",Remote,10,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Google Data Analytics,English,Remote,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,AWS Certified,"English, Spanish",Hybrid,2,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Google Data Analytics,"English, French",Remote,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,Scrum Master,"English, Hindi",Hybrid,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,None,"English, German",Hybrid,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,DataCamp Track,"English, French",Remote,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,AWS Certified,"English, German",Onsite,9,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Google Data Analytics,"English, Spanish",Remote,1,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,Certified UX Designer,"English, German",Remote,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,None,English,Onsite,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,Certified UX Designer,English,Hybrid,2,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,AWS Certified,"English, French",Remote,3,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,AWS Certified,"English, French",Hybrid,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,AWS Certified,"English, German",Remote,5,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Certified UX Designer,"English, Hindi",Hybrid,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,Google Data Analytics,"English, Hindi",Hybrid,8,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,Scrum Master,"English, French",Remote,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,AWS Certified,"English, Spanish",Onsite,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Google Data Analytics,"English, French",Hybrid,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,PMP,"English, Hindi",Onsite,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,Scrum Master,"English, French",Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,PMP,"English, French",Onsite,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,Certified UX Designer,"English, Hindi",Remote,9,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Microsoft Azure,"English, Hindi",Remote,1,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,Certified UX Designer,English,Hybrid,3,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,None,"English, German",Remote,6,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Scrum Master,English,Remote,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,PMP,"English, Hindi",Remote,4,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,DataCamp Track,"English, Spanish",Onsite,10,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,AWS Certified,"English, French",Remote,2,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,Certified UX Designer,"English, Hindi",Remote,5,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Certified UX Designer,"English, Spanish",Onsite,6,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,DataCamp Track,English,Onsite,7,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Microsoft Azure,"English, Hindi",Remote,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85000,Certified UX Designer,"English, German",Onsite,9,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78000,PMP,"English, French",Onsite,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62000,Google Data Analytics,"English, Spanish",Hybrid,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75000,None,English,Hybrid,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95000,Google Data Analytics,English,Onsite,7,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,105941,Google Data Analytics,English,Remote,1,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,89446,Microsoft Azure,"English, Spanish",Onsite,10,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,68504,None,"English, German",Remote,9,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,85455,DataCamp Track,"English, French",Remote,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,99007,Certified UX Designer,"English, Hindi",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,85915,DataCamp Track,English,Onsite,8,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,89393,Google Data Analytics,English,Remote,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,94498,None,English,Onsite,5,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,89831,DataCamp Track,"English, Spanish",Onsite,12,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,75926,AWS Certified,"English, German",Onsite,12,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,88399,Google Data Analytics,"English, German",Onsite,9,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,87817,Certified UX Designer,"English, German",Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,78968,AWS Certified,"English, Spanish",Onsite,5,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,53623,Microsoft Azure,"English, Spanish",Hybrid,2,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,66713,Google Data Analytics,"English, Spanish",Remote,2,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,81222,None,"English, German",Remote,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,74811,DataCamp Track,English,Onsite,10,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,83886,PMP,"English, Hindi",Onsite,5,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,102775,None,"English, German",Hybrid,7,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,92654,Google Data Analytics,English,Onsite,10,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,108001,DataCamp Track,"English, Spanish",Onsite,13,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,77733,AWS Certified,"English, German",Onsite,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,82492,None,"English, German",Remote,9,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,83694,Google Data Analytics,English,Onsite,7,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,77174,Scrum Master,"English, French",Remote,9,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,53232,Google Data Analytics,"English, Spanish",Remote,2,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,79490,PMP,"English, Hindi",Onsite,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,102907,Google Data Analytics,"English, German",Onsite,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,64481,Certified UX Designer,"English, Spanish",Onsite,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,56687,Google Data Analytics,"English, French",Remote,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,87327,AWS Certified,"English, German",Onsite,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,66037,Certified UX Designer,"English, Spanish",Onsite,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,72721,DataCamp Track,"English, French",Remote,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,68681,PMP,"English, French",Onsite,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,106860,None,"English, German",Hybrid,9,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,106278,Google Data Analytics,English,Remote,3,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,86744,PMP,"English, Hindi",Onsite,2,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,79811,Certified UX Designer,"English, German",Onsite,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,80211,AWS Certified,"English, Spanish",Onsite,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,79422,Scrum Master,"English, French",Hybrid,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,89500,AWS Certified,"English, Spanish",Hybrid,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,84637,Scrum Master,"English, Hindi",Hybrid,4,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,63296,Google Data Analytics,"English, German",Hybrid,1,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,73769,None,English,Hybrid,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,81614,Google Data Analytics,English,Remote,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,83749,AWS Certified,"English, Spanish",Onsite,4,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,104834,Google Data Analytics,"English, French",Hybrid,8,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,59155,AWS Certified,"English, French",Hybrid,13,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,104525,DataCamp Track,"English, Spanish",Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,79308,AWS Certified,"English, Spanish",Onsite,7,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,86455,Scrum Master,"English, French",Hybrid,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,83419,Google Data Analytics,English,Remote,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,80952,PMP,"English, Hindi",Remote,6,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,63386,Google Data Analytics,"English, Spanish",Hybrid,8,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,81820,None,"English, German",Hybrid,7,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,90443,Certified UX Designer,"English, Hindi",Hybrid,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,83589,PMP,"English, Hindi",Remote,6,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,59486,Google Data Analytics,"English, German",Hybrid,1,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,56476,PMP,"English, French",Onsite,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,89060,Certified UX Designer,English,Hybrid,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,79560,Certified UX Designer,"English, German",Remote,6,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,70292,Certified UX Designer,"English, Hindi",Remote,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,78408,AWS Certified,"English, French",Remote,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,70361,Scrum Master,"English, French",Remote,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,74164,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,101841,Google Data Analytics,English,Remote,2,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,66504,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,58224,PMP,"English, French",Onsite,2,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,62381,AWS Certified,"English, French",Hybrid,12,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,93243,AWS Certified,"English, French",Remote,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,101668,Google Data Analytics,"English, French",Hybrid,5,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,57385,Microsoft Azure,"English, Spanish",Hybrid,2,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,78120,AWS Certified,"English, German",Onsite,8,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,80722,Certified UX Designer,"English, German",Hybrid,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,65532,DataCamp Track,English,Onsite,10,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,76530,Microsoft Azure,"English, Spanish",Onsite,9,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,79070,Scrum Master,"English, French",Hybrid,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,89403,Google Data Analytics,"English, French",Hybrid,6,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,54063,Microsoft Azure,"English, Spanish",Hybrid,2,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,72836,DataCamp Track,English,Onsite,9,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,83546,Google Data Analytics,"English, Hindi",Hybrid,9,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,66429,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,81726,Scrum Master,"English, French",Remote,10,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,67635,PMP,"English, French",Onsite,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,75698,None,"English, German",Remote,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,75279,None,English,Hybrid,6,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,79458,None,"English, German",Remote,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,83286,Google Data Analytics,"English, German",Onsite,13,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,84500,Certified UX Designer,"English, Hindi",Remote,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,83260,Google Data Analytics,"English, French",Onsite,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,83190,AWS Certified,"English, German",Remote,4,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,86534,PMP,"English, Hindi",Onsite,5,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,87855,Certified UX Designer,"English, Hindi",Hybrid,7,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,95665,Certified UX Designer,"English, Hindi",Hybrid,3,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,68222,Scrum Master,"English, French",Remote,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,64202,Scrum Master,"English, Hindi",Hybrid,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,92350,Google Data Analytics,English,Onsite,6,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,66119,Google Data Analytics,"English, French",Remote,8,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,70795,Certified UX Designer,"English, Hindi",Remote,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,91988,AWS Certified,"English, French",Remote,2,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,67199,Google Data Analytics,"English, German",Hybrid,1,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,89854,None,"English, German",Hybrid,7,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,85532,Certified UX Designer,"English, German",Onsite,9,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,96535,Google Data Analytics,"English, French",Hybrid,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,84806,Certified UX Designer,"English, German",Hybrid,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,84407,DataCamp Track,"English, French",Remote,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,91164,None,English,Onsite,9,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,57254,Scrum Master,English,Remote,6,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,65981,Google Data Analytics,"English, French",Remote,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,86329,Google Data Analytics,"English, French",Onsite,4,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,82457,AWS Certified,"English, German",Onsite,11,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,86376,Scrum Master,"English, French",Hybrid,4,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,90029,Google Data Analytics,"English, German",Onsite,12,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,67344,Google Data Analytics,"English, German",Hybrid,3,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,63919,DataCamp Track,"English, Spanish",Remote,13,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,98679,Google Data Analytics,"English, German",Onsite,13,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,75151,Certified UX Designer,English,Hybrid,5,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,64375,AWS Certified,"English, Spanish",Onsite,4,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,78722,PMP,"English, Hindi",Onsite,6,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,84051,Certified UX Designer,"English, German",Hybrid,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,95327,None,English,Onsite,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,101934,Google Data Analytics,"English, German",Onsite,12,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,88791,AWS Certified,"English, German",Onsite,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,79579,Certified UX Designer,"English, German",Hybrid,10,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,90673,Google Data Analytics,"English, French",Hybrid,8,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,65980,AWS Certified,"English, French",Hybrid,12,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,67657,Google Data Analytics,"English, French",Remote,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,83299,DataCamp Track,"English, German",Remote,10,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,94128,AWS Certified,"English, Spanish",Hybrid,3,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,68884,Certified UX Designer,"English, German",Hybrid,10,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,86589,Certified UX Designer,"English, Hindi",Hybrid,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,82524,Google Data Analytics,"English, French",Onsite,6,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,87757,PMP,"English, French",Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,72840,AWS Certified,"English, German",Remote,7,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,65746,PMP,"English, French",Onsite,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,62914,AWS Certified,"English, French",Hybrid,12,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,93555,Microsoft Azure,"English, Hindi",Remote,4,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,67212,Google Data Analytics,"English, Spanish",Hybrid,9,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,81326,Certified UX Designer,"English, German",Remote,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,80886,DataCamp Track,"English, Spanish",Remote,10,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,88998,Microsoft Azure,"English, Spanish",Onsite,13,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,66676,Google Data Analytics,"English, French",Remote,5,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,75988,AWS Certified,"English, French",Remote,1,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,66954,Certified UX Designer,"English, German",Hybrid,11,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,70986,AWS Certified,"English, French",Hybrid,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,71006,DataCamp Track,English,Onsite,10,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,87980,Certified UX Designer,"English, Hindi",Remote,8,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,80828,AWS Certified,"English, French",Remote,5,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,71194,Certified UX Designer,"English, Hindi",Remote,7,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,90389,Certified UX Designer,English,Hybrid,1,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,54077,Google Data Analytics,"English, German",Hybrid,5,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,85185,Certified UX Designer,"English, German",Onsite,11,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,88778,DataCamp Track,"English, French",Remote,9,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,81000,DataCamp Track,English,Onsite,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,74807,DataCamp Track,English,Onsite,6,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,84430,AWS Certified,"English, German",Onsite,11,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,74511,Microsoft Azure,"English, Spanish",Onsite,11,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,99524,Google Data Analytics,English,Remote,2,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,69702,DataCamp Track,"English, Spanish",Remote,11,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,81652,Google Data Analytics,"English, Hindi",Hybrid,8,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,68471,AWS Certified,"English, German",Onsite,11,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,92502,Microsoft Azure,"English, Spanish",Onsite,10,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,69436,DataCamp Track,"English, German",Remote,12,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,68630,Google Data Analytics,"English, German",Hybrid,5,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,97176,PMP,"English, Hindi",Onsite,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,92319,Certified UX Designer,English,Hybrid,4,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,63365,Certified UX Designer,"English, Spanish",Onsite,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,68229,Google Data Analytics,"English, German",Hybrid,1,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,84999,Certified UX Designer,"English, German",Remote,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,90344,Microsoft Azure,"English, Spanish",Onsite,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,78654,None,English,Hybrid,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,98405,Google Data Analytics,English,Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,76046,Scrum Master,"English, Hindi",Hybrid,4,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,53223,Certified UX Designer,"English, Spanish",Onsite,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,94167,Microsoft Azure,"English, Hindi",Remote,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,85875,None,English,Hybrid,9,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,85867,Microsoft Azure,"English, Spanish",Onsite,10,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,High,98715,Certified UX Designer,"English, Hindi",Hybrid,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,104124,None,"English, German",Hybrid,10,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,66842,Google Data Analytics,"English, German",Hybrid,4,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,57769,Scrum Master,English,Remote,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,74727,AWS Certified,"English, French",Remote,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,82444,Microsoft Azure,"English, Spanish",Onsite,9,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,52723,Certified UX Designer,"English, Spanish",Onsite,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,92062,Google Data Analytics,English,Remote,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,76042,None,"English, German",Remote,6,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,94379,Google Data Analytics,"English, Hindi",Hybrid,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,68593,DataCamp Track,"English, Spanish",Remote,13,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,58555,PMP,"English, French",Onsite,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,98747,Google Data Analytics,English,Remote,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,64646,PMP,"English, Hindi",Remote,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,76740,DataCamp Track,"English, German",Remote,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,78687,Certified UX Designer,"English, German",Hybrid,12,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,80014,DataCamp Track,"English, German",Remote,9,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,78651,Microsoft Azure,"English, Spanish",Onsite,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,79456,Certified UX Designer,"English, German",Onsite,12,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,80420,Certified UX Designer,"English, Hindi",Remote,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,64865,Google Data Analytics,"English, French",Remote,4,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,61721,Scrum Master,English,Remote,6,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,60383,Microsoft Azure,"English, Spanish",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,73945,Scrum Master,"English, Hindi",Hybrid,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,88725,PMP,"English, Hindi",Onsite,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,83839,DataCamp Track,"English, German",Remote,13,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,79302,Certified UX Designer,"English, Hindi",Remote,8,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,53819,Google Data Analytics,"English, Spanish",Hybrid,8,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,83036,AWS Certified,"English, Spanish",Onsite,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,68586,Scrum Master,"English, Hindi",Hybrid,7,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,80214,Certified UX Designer,"English, Hindi",Remote,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,79592,DataCamp Track,"English, Spanish",Remote,10,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,92904,Google Data Analytics,"English, German",Onsite,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,73460,Scrum Master,"English, French",Remote,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,81480,AWS Certified,"English, German",Onsite,9,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,81660,Certified UX Designer,"English, Hindi",Remote,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,77470,AWS Certified,"English, German",Onsite,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,102220,None,English,Onsite,5,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,80518,Google Data Analytics,"English, Hindi",Hybrid,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,77610,Certified UX Designer,"English, German",Remote,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,87037,Google Data Analytics,English,Remote,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,74308,Certified UX Designer,"English, German",Hybrid,11,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,69509,Certified UX Designer,"English, Hindi",Remote,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,79003,AWS Certified,"English, Spanish",Onsite,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,69193,Google Data Analytics,"English, Spanish",Remote,1,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,60226,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,68263,DataCamp Track,"English, Spanish",Remote,11,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,67263,Microsoft Azure,"English, Spanish",Hybrid,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,63610,Scrum Master,English,Remote,4,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,89735,Certified UX Designer,English,Hybrid,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,74384,PMP,"English, Hindi",Remote,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,62317,AWS Certified,"English, French",Hybrid,11,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,106626,Google Data Analytics,"English, French",Hybrid,6,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,95183,Google Data Analytics,"English, Hindi",Hybrid,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,65050,Google Data Analytics,"English, Spanish",Remote,1,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,77137,Microsoft Azure,"English, Spanish",Onsite,12,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,74796,Certified UX Designer,"English, German",Hybrid,10,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,81900,Microsoft Azure,"English, Spanish",Onsite,13,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,62730,Scrum Master,English,Remote,6,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,86584,Google Data Analytics,"English, Hindi",Hybrid,10,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,74713,AWS Certified,"English, German",Onsite,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,83852,PMP,"English, French",Onsite,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,92618,DataCamp Track,"English, French",Remote,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,81451,Certified UX Designer,"English, German",Hybrid,12,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,53981,Google Data Analytics,"English, Spanish",Remote,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,80313,DataCamp Track,"English, Spanish",Remote,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,75767,Scrum Master,"English, Hindi",Hybrid,6,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,76497,AWS Certified,"English, Spanish",Onsite,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,94439,AWS Certified,"English, Spanish",Hybrid,4,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,68419,AWS Certified,"English, French",Hybrid,13,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,100838,DataCamp Track,"English, Spanish",Onsite,12,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,56997,Microsoft Azure,"English, Spanish",Hybrid,2,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,76927,DataCamp Track,"English, Spanish",Remote,11,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,74532,Certified UX Designer,"English, German",Hybrid,11,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,70444,Scrum Master,"English, French",Hybrid,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,91060,DataCamp Track,"English, French",Remote,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,96280,Google Data Analytics,English,Remote,1,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,84951,Certified UX Designer,"English, German",Onsite,10,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,90221,Microsoft Azure,"English, Hindi",Remote,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,85011,Google Data Analytics,"English, French",Onsite,4,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,94613,None,English,Onsite,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,73992,DataCamp Track,English,Onsite,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,91578,DataCamp Track,"English, Spanish",Onsite,9,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,83574,Certified UX Designer,English,Hybrid,6,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,54724,AWS Certified,"English, French",Hybrid,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,74225,DataCamp Track,English,Onsite,6,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,85991,Certified UX Designer,"English, Spanish",Hybrid,2,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,71450,Scrum Master,"English, French",Hybrid,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,88389,Google Data Analytics,"English, French",Onsite,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,102880,Google Data Analytics,English,Onsite,8,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,87357,AWS Certified,"English, German",Onsite,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,81740,Google Data Analytics,"English, Hindi",Hybrid,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,83750,Microsoft Azure,"English, Spanish",Onsite,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,106228,Google Data Analytics,"English, German",Onsite,12,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,82045,Scrum Master,"English, Hindi",Hybrid,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,87576,PMP,"English, Hindi",Onsite,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,85114,DataCamp Track,"English, French",Remote,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62329,Google Data Analytics,"English, Spanish",Hybrid,10,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,73154,Google Data Analytics,"English, French",Onsite,7,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,80722,Certified UX Designer,English,Hybrid,2,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,83000,Google Data Analytics,"English, French",Hybrid,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,64229,PMP,"English, Hindi",Remote,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,83194,Certified UX Designer,"English, Spanish",Hybrid,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,90297,Google Data Analytics,"English, Hindi",Hybrid,9,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,90176,Microsoft Azure,"English, Spanish",Onsite,12,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,65024,Google Data Analytics,"English, German",Hybrid,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,92652,PMP,"English, Hindi",Onsite,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,93340,Google Data Analytics,English,Onsite,9,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,78308,AWS Certified,"English, German",Onsite,9,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,81996,Google Data Analytics,"English, French",Hybrid,7,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,85074,Certified UX Designer,"English, German",Onsite,12,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,79047,AWS Certified,"English, German",Remote,8,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,60568,Google Data Analytics,"English, German",Hybrid,2,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,77698,AWS Certified,"English, German",Onsite,12,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,68159,Certified UX Designer,"English, Hindi",Remote,9,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,93345,PMP,"English, Hindi",Onsite,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,82696,AWS Certified,"English, Spanish",Onsite,5,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,76665,AWS Certified,"English, German",Onsite,9,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,77163,Certified UX Designer,"English, German",Remote,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,66138,DataCamp Track,English,Onsite,8,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,90592,Certified UX Designer,"English, Hindi",Hybrid,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,65993,Google Data Analytics,"English, German",Hybrid,1,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,67832,None,English,Hybrid,9,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,High,108657,Google Data Analytics,"English, French",Hybrid,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,71462,Certified UX Designer,"English, German",Hybrid,8,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,80863,Certified UX Designer,"English, German",Hybrid,8,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,71109,AWS Certified,"English, German",Remote,7,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,76196,Google Data Analytics,"English, Hindi",Hybrid,8,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,80597,Microsoft Azure,"English, Spanish",Onsite,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,64826,None,English,Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,64526,Certified UX Designer,"English, Spanish",Onsite,5,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,96914,Certified UX Designer,English,Hybrid,6,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,57697,Scrum Master,English,Remote,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,85260,Certified UX Designer,"English, German",Hybrid,11,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,70944,PMP,"English, French",Onsite,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,80168,Certified UX Designer,"English, German",Remote,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,58374,PMP,"English, French",Onsite,2,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,86292,AWS Certified,"English, German",Onsite,10,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,66641,Google Data Analytics,"English, Spanish",Hybrid,8,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,84467,Microsoft Azure,"English, Spanish",Onsite,11,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,70686,Certified UX Designer,"English, Hindi",Remote,4,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,76368,Certified UX Designer,English,Hybrid,2,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,99045,Google Data Analytics,English,Onsite,7,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,77926,AWS Certified,"English, Spanish",Onsite,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,91217,Microsoft Azure,"English, Spanish",Onsite,11,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,81825,DataCamp Track,"English, French",Remote,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,74044,Certified UX Designer,English,Hybrid,2,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,77437,PMP,"English, Hindi",Onsite,3,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,87879,Scrum Master,"English, French",Remote,8,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,66020,Scrum Master,"English, Hindi",Hybrid,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,89666,AWS Certified,"English, Spanish",Hybrid,3,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,59480,Microsoft Azure,"English, Spanish",Hybrid,4,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,81743,Scrum Master,"English, French",Remote,10,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,75292,AWS Certified,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,72570,AWS Certified,"English, German",Remote,4,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,95755,None,English,Onsite,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,97564,Google Data Analytics,English,Remote,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,82803,AWS Certified,"English, German",Remote,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,84970,None,English,Hybrid,7,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,54409,Microsoft Azure,"English, Spanish",Hybrid,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,84184,Certified UX Designer,"English, Spanish",Hybrid,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,55573,Microsoft Azure,"English, Spanish",Hybrid,1,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,80308,Certified UX Designer,English,Hybrid,4,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,83184,Google Data Analytics,English,Remote,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,54557,Google Data Analytics,"English, Spanish",Remote,1,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,84674,Certified UX Designer,"English, German",Remote,8,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,84779,Certified UX Designer,"English, German",Onsite,8,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,73695,AWS Certified,"English, French",Remote,6,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,75737,AWS Certified,"English, German",Remote,7,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,82005,Certified UX Designer,"English, Spanish",Hybrid,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,69051,AWS Certified,"English, French",Remote,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,81100,AWS Certified,"English, German",Remote,5,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,96466,Google Data Analytics,English,Onsite,7,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,58501,Scrum Master,English,Remote,6,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,67307,Certified UX Designer,"English, German",Remote,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,60961,Microsoft Azure,"English, Spanish",Hybrid,4,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,67738,Certified UX Designer,"English, Spanish",Onsite,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,70736,DataCamp Track,"English, Spanish",Remote,10,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,70234,AWS Certified,"English, German",Onsite,8,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,106106,DataCamp Track,"English, Spanish",Onsite,10,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,94160,None,English,Onsite,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,74523,AWS Certified,"English, German",Onsite,6,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,70764,PMP,"English, French",Onsite,9,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,99888,None,English,Onsite,6,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,59121,Google Data Analytics,"English, German",Hybrid,2,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,103348,Google Data Analytics,"English, German",Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,73182,AWS Certified,"English, German",Remote,8,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,70670,AWS Certified,"English, French",Remote,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,69637,Certified UX Designer,"English, Spanish",Onsite,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,84793,Scrum Master,"English, French",Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,68133,Google Data Analytics,"English, German",Hybrid,4,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,84809,AWS Certified,"English, German",Onsite,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,92009,Google Data Analytics,"English, German",Onsite,11,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,106874,None,"English, German",Hybrid,7,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,72944,Google Data Analytics,"English, French",Onsite,6,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,96735,Microsoft Azure,"English, Spanish",Onsite,13,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,92010,None,"English, German",Hybrid,8,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,73345,DataCamp Track,"English, German",Remote,10,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,86239,DataCamp Track,"English, Spanish",Remote,12,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,72973,PMP,"English, Hindi",Onsite,2,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,86159,Scrum Master,"English, French",Remote,8,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,96422,Google Data Analytics,"English, Hindi",Hybrid,10,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,96782,None,English,Onsite,6,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,77797,Certified UX Designer,"English, Hindi",Remote,9,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,77833,None,English,Hybrid,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,60219,Certified UX Designer,"English, Spanish",Onsite,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,61559,Microsoft Azure,"English, Spanish",Hybrid,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,68742,DataCamp Track,English,Onsite,8,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,70490,Scrum Master,"English, French",Hybrid,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,94924,Google Data Analytics,"English, German",Onsite,9,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,73698,AWS Certified,"English, French",Remote,3,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,81920,DataCamp Track,"English, Spanish",Onsite,9,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,103188,Google Data Analytics,"English, French",Hybrid,4,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,105023,None,"English, German",Hybrid,9,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,96298,Google Data Analytics,"English, German",Onsite,10,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,90099,PMP,"English, Hindi",Onsite,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,77870,AWS Certified,"English, Spanish",Onsite,7,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,98881,None,English,Onsite,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,81206,Certified UX Designer,"English, Spanish",Hybrid,1,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,75228,DataCamp Track,"English, Spanish",Remote,12,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,66491,PMP,"English, French",Onsite,6,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,71375,None,English,Hybrid,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,73056,Certified UX Designer,"English, German",Hybrid,10,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,75069,Certified UX Designer,"English, Hindi",Remote,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,58415,Google Data Analytics,"English, French",Remote,6,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,82878,Certified UX Designer,"English, Hindi",Remote,8,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,79732,AWS Certified,"English, French",Remote,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,74916,Certified UX Designer,English,Hybrid,3,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,70826,DataCamp Track,"English, Spanish",Remote,13,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,73936,Certified UX Designer,"English, Hindi",Remote,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,60959,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,88401,PMP,"English, Hindi",Onsite,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,74614,Certified UX Designer,English,Hybrid,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,67817,None,English,Hybrid,5,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,87728,Certified UX Designer,"English, German",Onsite,11,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,53051,Scrum Master,English,Remote,5,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,74650,Scrum Master,"English, French",Hybrid,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,94881,AWS Certified,"English, Spanish",Hybrid,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,89570,PMP,"English, Hindi",Onsite,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,79692,Certified UX Designer,English,Hybrid,1,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,69981,Google Data Analytics,"English, Spanish",Remote,4,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,66573,Certified UX Designer,"English, Hindi",Remote,7,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,80850,Scrum Master,"English, French",Remote,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,68281,AWS Certified,"English, German",Onsite,9,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,76700,Scrum Master,"English, French",Hybrid,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,75246,AWS Certified,"English, Spanish",Onsite,6,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,68540,Google Data Analytics,"English, French",Remote,8,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,107528,None,English,Onsite,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,92234,AWS Certified,"English, French",Remote,2,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,100877,Google Data Analytics,English,Remote,1,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,109005,Google Data Analytics,"English, French",Hybrid,8,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,56134,Microsoft Azure,"English, Spanish",Hybrid,5,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,77995,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,91656,Google Data Analytics,"English, French",Hybrid,7,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,56825,AWS Certified,"English, French",Hybrid,13,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,78477,Certified UX Designer,"English, German",Remote,6,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,66437,AWS Certified,"English, French",Hybrid,11,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,84211,DataCamp Track,"English, Spanish",Remote,11,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,99051,Certified UX Designer,"English, Hindi",Hybrid,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,57658,PMP,"English, French",Onsite,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,66581,Google Data Analytics,"English, German",Hybrid,2,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,85373,AWS Certified,"English, French",Remote,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,80195,Certified UX Designer,"English, Hindi",Remote,5,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,79719,Certified UX Designer,"English, German",Hybrid,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,74289,Certified UX Designer,"English, Hindi",Remote,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,61606,PMP,"English, French",Onsite,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,85120,DataCamp Track,"English, Spanish",Remote,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,72379,None,"English, German",Remote,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,89876,Certified UX Designer,English,Hybrid,3,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,61742,Google Data Analytics,"English, Spanish",Remote,1,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,93080,None,"English, German",Hybrid,7,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,75932,PMP,"English, French",Onsite,10,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,79609,Certified UX Designer,English,Hybrid,1,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,108231,Microsoft Azure,"English, Hindi",Remote,10,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,58065,PMP,"English, French",Onsite,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,76552,Scrum Master,"English, French",Hybrid,7,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,93052,Google Data Analytics,"English, Hindi",Hybrid,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,High,97881,Google Data Analytics,English,Onsite,9,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,86860,Microsoft Azure,"English, Spanish",Onsite,9,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,89477,Google Data Analytics,"English, Hindi",Hybrid,11,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,90587,PMP,"English, Hindi",Onsite,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,99240,Microsoft Azure,"English, Hindi",Remote,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,86439,Google Data Analytics,"English, Hindi",Hybrid,10,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,95056,AWS Certified,"English, Spanish",Hybrid,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,54786,Google Data Analytics,"English, German",Hybrid,2,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,73724,None,"English, German",Remote,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,97529,AWS Certified,"English, French",Remote,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,73325,Certified UX Designer,"English, Hindi",Remote,10,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,71164,Microsoft Azure,"English, Spanish",Hybrid,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,80936,PMP,"English, Hindi",Onsite,5,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,82224,None,"English, German",Hybrid,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,80386,AWS Certified,"English, German",Remote,4,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,107228,DataCamp Track,"English, Spanish",Onsite,10,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,59754,Microsoft Azure,"English, Spanish",Hybrid,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,73032,AWS Certified,"English, Spanish",Onsite,8,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,71292,Certified UX Designer,"English, German",Hybrid,11,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,63802,Google Data Analytics,"English, French",Remote,4,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,68973,Certified UX Designer,"English, Hindi",Remote,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,77353,Google Data Analytics,"English, French",Onsite,5,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,108129,Microsoft Azure,"English, Hindi",Remote,10,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,85783,Certified UX Designer,English,Hybrid,3,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,61662,PMP,"English, French",Onsite,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,90714,Certified UX Designer,"English, Hindi",Hybrid,3,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,82101,Certified UX Designer,"English, Hindi",Hybrid,3,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,108558,Google Data Analytics,English,Onsite,9,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,98625,Google Data Analytics,English,Remote,1,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,92718,DataCamp Track,"English, French",Remote,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,71629,DataCamp Track,English,Onsite,7,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,75283,Google Data Analytics,"English, French",Onsite,8,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,106790,Google Data Analytics,"English, German",Onsite,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,76203,None,"English, German",Remote,9,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,82725,Certified UX Designer,"English, Hindi",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,84875,None,English,Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,56425,Google Data Analytics,"English, French",Remote,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,87661,Certified UX Designer,English,Hybrid,5,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,66178,Google Data Analytics,"English, Spanish",Remote,2,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,95534,AWS Certified,"English, French",Remote,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,68602,AWS Certified,"English, Spanish",Onsite,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,66215,PMP,"English, French",Onsite,2,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,56842,Google Data Analytics,"English, Spanish",Hybrid,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,94286,Microsoft Azure,"English, Spanish",Onsite,12,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,82679,None,"English, German",Remote,8,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,93224,Google Data Analytics,"English, German",Onsite,13,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,53577,Google Data Analytics,"English, Spanish",Hybrid,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,96188,Certified UX Designer,"English, German",Onsite,9,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,91169,Microsoft Azure,"English, Hindi",Remote,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,94287,Certified UX Designer,"English, German",Onsite,8,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,72079,AWS Certified,"English, French",Remote,6,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,76359,PMP,"English, Hindi",Remote,4,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,88539,PMP,"English, French",Onsite,7,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,85697,AWS Certified,"English, Spanish",Hybrid,4,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,96148,Certified UX Designer,"English, Hindi",Hybrid,6,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,85995,None,"English, German",Remote,6,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,70259,Microsoft Azure,"English, Spanish",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,75249,Certified UX Designer,"English, German",Hybrid,8,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,88470,AWS Certified,"English, German",Onsite,12,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,71979,AWS Certified,"English, French",Remote,4,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,68742,Scrum Master,"English, French",Remote,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,65296,DataCamp Track,English,Onsite,7,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,67078,Scrum Master,"English, Hindi",Hybrid,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,82662,AWS Certified,"English, French",Remote,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,90969,Microsoft Azure,"English, Spanish",Onsite,11,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,64720,AWS Certified,"English, French",Hybrid,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,58778,Google Data Analytics,"English, Spanish",Hybrid,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,75332,PMP,"English, Hindi",Remote,3,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,82323,DataCamp Track,"English, Spanish",Onsite,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,89298,Certified UX Designer,English,Hybrid,5,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,94274,Microsoft Azure,"English, Hindi",Remote,1,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,96371,Certified UX Designer,"English, German",Onsite,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,83252,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,78476,AWS Certified,"English, Spanish",Onsite,6,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,82777,AWS Certified,"English, German",Remote,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,83782,AWS Certified,"English, French",Remote,1,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,98250,Google Data Analytics,"English, French",Hybrid,4,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,79972,AWS Certified,"English, French",Remote,2,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,63610,Microsoft Azure,"English, Spanish",Hybrid,1,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,101825,Google Data Analytics,"English, French",Hybrid,4,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,77205,AWS Certified,"English, French",Remote,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,73367,AWS Certified,"English, French",Remote,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,78128,Scrum Master,"English, French",Hybrid,4,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,59855,Google Data Analytics,"English, Spanish",Hybrid,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,92845,Certified UX Designer,English,Hybrid,3,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,79897,Scrum Master,"English, French",Hybrid,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,79985,AWS Certified,"English, German",Onsite,5,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,101822,DataCamp Track,"English, Spanish",Onsite,11,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,66706,Scrum Master,"English, French",Remote,7,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,81898,PMP,"English, Hindi",Remote,7,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,96575,Google Data Analytics,"English, French",Onsite,7,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,89952,AWS Certified,"English, Spanish",Hybrid,1,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,69610,AWS Certified,"English, German",Onsite,10,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,80057,Certified UX Designer,"English, Hindi",Remote,10,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,86631,Certified UX Designer,English,Hybrid,3,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,62670,Google Data Analytics,"English, Spanish",Hybrid,7,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,64497,Google Data Analytics,"English, French",Remote,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,71862,PMP,"English, French",Onsite,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,69868,AWS Certified,"English, French",Hybrid,10,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,79547,DataCamp Track,"English, French",Remote,7,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,97060,Microsoft Azure,"English, Spanish",Onsite,13,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,70322,Certified UX Designer,"English, German",Remote,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,86565,Certified UX Designer,English,Hybrid,1,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,67304,Certified UX Designer,"English, Spanish",Onsite,9,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,60721,Google Data Analytics,"English, German",Hybrid,4,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,71604,Scrum Master,"English, French",Remote,6,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,65086,AWS Certified,"English, German",Remote,8,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,72530,None,"English, German",Remote,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,89181,PMP,"English, Hindi",Onsite,4,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,85818,None,"English, German",Hybrid,10,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,67650,AWS Certified,"English, Spanish",Onsite,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,77107,Certified UX Designer,"English, German",Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,81068,Certified UX Designer,"English, German",Hybrid,10,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,92339,Google Data Analytics,"English, French",Hybrid,4,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,92576,Certified UX Designer,English,Hybrid,2,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,75745,Certified UX Designer,English,Hybrid,2,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,77598,None,English,Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,54164,AWS Certified,"English, French",Hybrid,11,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,105534,Microsoft Azure,"English, Hindi",Remote,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,84613,AWS Certified,"English, French",Remote,1,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,108013,Microsoft Azure,"English, Hindi",Remote,1,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,84115,AWS Certified,"English, Spanish",Hybrid,3,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,94278,Google Data Analytics,English,Onsite,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,81394,AWS Certified,"English, French",Remote,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,70118,Scrum Master,"English, Hindi",Hybrid,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,76321,Google Data Analytics,"English, French",Onsite,7,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,76345,Scrum Master,"English, French",Hybrid,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,95379,Google Data Analytics,"English, Hindi",Hybrid,7,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,78052,Certified UX Designer,English,Hybrid,6,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,57878,Google Data Analytics,"English, French",Remote,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,85744,Certified UX Designer,"English, German",Onsite,8,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,74826,Scrum Master,"English, French",Hybrid,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,53187,Certified UX Designer,"English, Spanish",Onsite,8,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,80850,DataCamp Track,English,Onsite,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,77804,Scrum Master,"English, Hindi",Hybrid,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,86009,Certified UX Designer,"English, German",Remote,6,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,84378,Certified UX Designer,English,Hybrid,4,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,53254,Google Data Analytics,"English, French",Remote,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,76553,Google Data Analytics,"English, Hindi",Hybrid,10,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,87216,Scrum Master,"English, French",Remote,6,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,91022,Google Data Analytics,"English, French",Onsite,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,76250,AWS Certified,"English, French",Remote,1,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,102705,DataCamp Track,"English, Spanish",Onsite,9,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,81662,AWS Certified,"English, Spanish",Onsite,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,67294,Certified UX Designer,"English, German",Remote,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,96721,Google Data Analytics,English,Remote,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,55943,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,61155,Google Data Analytics,"English, French",Remote,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,73896,None,English,Hybrid,9,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,65464,PMP,"English, French",Onsite,4,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,97187,Google Data Analytics,English,Remote,1,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,79713,AWS Certified,"English, French",Remote,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,74354,AWS Certified,"English, Spanish",Onsite,4,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,68129,Google Data Analytics,"English, Spanish",Hybrid,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,72535,Microsoft Azure,"English, Spanish",Onsite,12,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,84863,AWS Certified,"English, French",Remote,2,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,58829,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,72265,Certified UX Designer,"English, Hindi",Remote,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,75295,AWS Certified,"English, German",Remote,5,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,106009,Google Data Analytics,"English, French",Hybrid,4,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,83813,Scrum Master,"English, French",Hybrid,8,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,75558,Certified UX Designer,"English, Hindi",Remote,5,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,77385,Certified UX Designer,English,Hybrid,2,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,68729,Microsoft Azure,"English, Spanish",Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,58411,Google Data Analytics,"English, French",Remote,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,72052,AWS Certified,"English, French",Remote,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,63835,Scrum Master,English,Remote,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,80674,PMP,"English, Hindi",Remote,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,81184,Certified UX Designer,"English, German",Hybrid,12,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,68915,PMP,"English, French",Onsite,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,81576,AWS Certified,"English, German",Onsite,10,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,72616,AWS Certified,"English, German",Onsite,8,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,High,104087,Google Data Analytics,English,Remote,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,95723,Certified UX Designer,"English, German",Onsite,9,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,82507,DataCamp Track,English,Onsite,6,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,71650,AWS Certified,"English, German",Onsite,10,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,66156,PMP,"English, Hindi",Remote,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,82574,Certified UX Designer,"English, Hindi",Remote,8,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,105297,None,English,Onsite,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,56362,Certified UX Designer,"English, Spanish",Onsite,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,107009,Microsoft Azure,"English, Hindi",Remote,2,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,59791,AWS Certified,"English, French",Hybrid,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,81488,Certified UX Designer,English,Hybrid,6,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,79053,Google Data Analytics,"English, French",Onsite,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,73155,Certified UX Designer,"English, German",Remote,10,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,77139,Certified UX Designer,"English, German",Hybrid,9,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,77926,Google Data Analytics,"English, Hindi",Hybrid,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,75133,Certified UX Designer,"English, German",Hybrid,11,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,97169,DataCamp Track,"English, French",Remote,5,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,71222,None,"English, German",Remote,8,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,67019,DataCamp Track,"English, German",Remote,12,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,63126,AWS Certified,"English, French",Hybrid,9,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,79743,Google Data Analytics,"English, Hindi",Hybrid,9,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,69188,Certified UX Designer,"English, Hindi",Remote,8,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,92062,Certified UX Designer,English,Hybrid,3,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,76582,Scrum Master,"English, French",Remote,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,70543,Microsoft Azure,"English, Spanish",Hybrid,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,80870,DataCamp Track,"English, French",Remote,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,67325,AWS Certified,"English, German",Remote,5,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,72988,PMP,"English, Hindi",Remote,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,66488,Certified UX Designer,"English, Hindi",Remote,7,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,63266,PMP,"English, French",Onsite,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,82258,Google Data Analytics,English,Onsite,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,69430,PMP,"English, French",Onsite,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,58280,Google Data Analytics,"English, French",Remote,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,73973,AWS Certified,"English, German",Remote,8,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,102476,None,"English, German",Hybrid,8,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,62663,Microsoft Azure,"English, Spanish",Hybrid,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,82968,PMP,"English, French",Onsite,10,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,93980,Google Data Analytics,"English, Hindi",Hybrid,8,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,76753,DataCamp Track,English,Onsite,6,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,76235,Certified UX Designer,"English, German",Hybrid,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,72099,None,"English, German",Remote,5,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,67669,Microsoft Azure,"English, Spanish",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,68455,Certified UX Designer,"English, German",Remote,6,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,78798,DataCamp Track,"English, German",Remote,10,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,60168,Certified UX Designer,"English, Spanish",Onsite,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,102077,Google Data Analytics,English,Remote,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,79714,AWS Certified,"English, German",Onsite,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,85309,Certified UX Designer,English,Hybrid,2,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,82959,None,"English, German",Hybrid,11,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,103680,Google Data Analytics,English,Remote,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,73716,Google Data Analytics,"English, French",Onsite,4,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,82228,None,"English, German",Hybrid,9,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,80362,AWS Certified,"English, German",Onsite,7,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,80745,AWS Certified,"English, German",Remote,4,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,66326,Scrum Master,"English, French",Remote,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,92108,PMP,"English, Hindi",Onsite,2,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,71441,Certified UX Designer,"English, Spanish",Hybrid,2,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,77017,Scrum Master,"English, French",Hybrid,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,85152,AWS Certified,"English, German",Onsite,8,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,70501,Certified UX Designer,"English, Spanish",Hybrid,1,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,74275,DataCamp Track,"English, Spanish",Remote,10,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,106985,Microsoft Azure,"English, Hindi",Remote,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,65763,Google Data Analytics,"English, French",Remote,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,89006,Google Data Analytics,"English, Hindi",Hybrid,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,79065,Google Data Analytics,"English, Hindi",Hybrid,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,75087,Certified UX Designer,"English, German",Remote,10,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,66997,Google Data Analytics,"English, Spanish",Remote,2,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,68149,DataCamp Track,"English, Spanish",Remote,12,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,90724,Certified UX Designer,"English, German",Onsite,11,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,83937,AWS Certified,"English, German",Onsite,12,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,64119,Google Data Analytics,"English, Spanish",Hybrid,9,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,82949,DataCamp Track,"English, Spanish",Onsite,9,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,64033,DataCamp Track,English,Onsite,7,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,68542,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,78536,Certified UX Designer,"English, German",Remote,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,84705,AWS Certified,"English, German",Onsite,9,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,86068,DataCamp Track,"English, German",Remote,12,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,79576,Certified UX Designer,"English, Hindi",Remote,8,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,71572,DataCamp Track,"English, German",Remote,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,88855,AWS Certified,"English, French",Remote,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,94385,Google Data Analytics,English,Remote,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,90857,Google Data Analytics,"English, French",Onsite,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,81548,Certified UX Designer,"English, Hindi",Remote,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,66815,Certified UX Designer,"English, Spanish",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,65933,Certified UX Designer,"English, German",Remote,10,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,77854,Scrum Master,"English, Hindi",Hybrid,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,67887,AWS Certified,"English, Spanish",Onsite,7,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,63703,PMP,"English, French",Onsite,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,72742,PMP,"English, Hindi",Onsite,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,101543,Certified UX Designer,"English, Hindi",Hybrid,7,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,82211,Certified UX Designer,"English, German",Hybrid,9,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,91049,PMP,"English, Hindi",Onsite,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,72560,Google Data Analytics,"English, French",Onsite,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,79032,None,English,Hybrid,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,66816,DataCamp Track,English,Onsite,10,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,95249,None,English,Onsite,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,88854,Certified UX Designer,English,Hybrid,3,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,57736,Google Data Analytics,"English, Spanish",Remote,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,75419,Certified UX Designer,"English, German",Remote,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,77518,AWS Certified,"English, German",Remote,7,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,80387,AWS Certified,"English, German",Onsite,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,84591,DataCamp Track,English,Onsite,9,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,83531,Certified UX Designer,"English, Hindi",Remote,4,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,81441,PMP,"English, Hindi",Remote,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,69804,PMP,"English, Hindi",Remote,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,82080,PMP,"English, Hindi",Remote,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,72442,Certified UX Designer,"English, German",Remote,7,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,97834,Google Data Analytics,"English, German",Onsite,13,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,71495,AWS Certified,"English, German",Remote,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,97223,AWS Certified,"English, French",Remote,4,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,83895,Microsoft Azure,"English, Hindi",Remote,2,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,73975,PMP,"English, Hindi",Remote,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,64735,Certified UX Designer,"English, German",Hybrid,12,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,106537,None,"English, German",Hybrid,9,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,79532,Certified UX Designer,English,Hybrid,5,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,81183,Google Data Analytics,"English, French",Onsite,4,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,65356,Microsoft Azure,"English, Spanish",Hybrid,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,85566,Certified UX Designer,"English, German",Onsite,11,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,61681,Microsoft Azure,"English, Spanish",Hybrid,2,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,103827,None,"English, German",Hybrid,10,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,81643,AWS Certified,"English, German",Onsite,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,77027,PMP,"English, Hindi",Onsite,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,84968,Scrum Master,"English, French",Remote,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Low,60673,Certified UX Designer,"English, Spanish",Onsite,7,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,86750,AWS Certified,"English, Spanish",Hybrid,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,97571,AWS Certified,"English, Spanish",Hybrid,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,91006,None,English,Onsite,7,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,65563,Google Data Analytics,"English, Spanish",Remote,1,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,81390,Certified UX Designer,"English, Spanish",Hybrid,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,77195,Certified UX Designer,English,Hybrid,3,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,83564,AWS Certified,"English, Spanish",Onsite,8,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,74637,Certified UX Designer,English,Hybrid,2,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,80589,Certified UX Designer,English,Hybrid,2,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,73739,None,English,Hybrid,8,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,90316,AWS Certified,"English, Spanish",Hybrid,1,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,72673,Certified UX Designer,"English, Hindi",Remote,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,82789,AWS Certified,"English, Spanish",Onsite,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,65792,AWS Certified,"English, Spanish",Onsite,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,96728,Microsoft Azure,"English, Hindi",Remote,3,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,85333,Google Data Analytics,"English, Hindi",Hybrid,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,63719,Microsoft Azure,"English, Spanish",Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,63571,Google Data Analytics,"English, Spanish",Hybrid,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,82312,AWS Certified,"English, German",Remote,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,96269,Google Data Analytics,"English, French",Onsite,4,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,85174,DataCamp Track,English,Onsite,8,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,52820,Google Data Analytics,"English, Spanish",Remote,1,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,97690,Certified UX Designer,"English, Hindi",Hybrid,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,70721,PMP,"English, French",Onsite,3,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,108665,Google Data Analytics,English,Remote,1,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,108993,Microsoft Azure,"English, Hindi",Remote,1,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,98147,Google Data Analytics,English,Remote,5,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Low,88294,Google Data Analytics,"English, German",Onsite,10,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,106006,Google Data Analytics,English,Remote,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,87673,Certified UX Designer,"English, Hindi",Hybrid,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,79724,Certified UX Designer,"English, German",Onsite,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,66367,None,English,Hybrid,6,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,69799,Scrum Master,"English, French",Hybrid,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,65050,Certified UX Designer,"English, German",Remote,6,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,90272,Microsoft Azure,"English, Spanish",Onsite,11,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Low,68757,Scrum Master,English,Remote,7,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,63694,Google Data Analytics,"English, Spanish",Hybrid,9,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,54382,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,101873,Certified UX Designer,"English, Hindi",Hybrid,3,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,92986,PMP,"English, Hindi",Onsite,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,83563,Microsoft Azure,"English, Spanish",Onsite,12,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Low,63907,AWS Certified,"English, French",Hybrid,13,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,68211,AWS Certified,"English, German",Remote,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,88194,Scrum Master,"English, French",Hybrid,6,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,94572,Google Data Analytics,"English, Hindi",Hybrid,11,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,84130,None,English,Onsite,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,High,65907,Google Data Analytics,"English, Spanish",Hybrid,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,87086,AWS Certified,"English, German",Onsite,8,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,89732,None,English,Onsite,9,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,68173,Certified UX Designer,"English, Hindi",Remote,12,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,72809,DataCamp Track,English,Onsite,7,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,97553,Google Data Analytics,English,Remote,3,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Medium,79335,Google Data Analytics,"English, French",Onsite,6,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,67286,Scrum Master,"English, Hindi",Hybrid,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,High,102670,Microsoft Azure,"English, Hindi",Remote,7,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,74936,Certified UX Designer,"English, Hindi",Remote,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,94298,Certified UX Designer,English,Hybrid,4,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,87687,AWS Certified,"English, French",Remote,3,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,105467,Certified UX Designer,"English, Hindi",Hybrid,4,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,80076,DataCamp Track,"English, Spanish",Remote,12,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,69611,PMP,"English, Hindi",Remote,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,High,73721,PMP,"English, French",Onsite,7,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,77240,AWS Certified,"English, German",Remote,4,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Medium,62837,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,85327,Certified UX Designer,"English, Hindi",Remote,12,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,80610,DataCamp Track,English,Onsite,7,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,95407,Google Data Analytics,"English, French",Onsite,8,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,84920,DataCamp Track,English,Onsite,7,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Medium,67554,AWS Certified,"English, French",Remote,6,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,84539,Certified UX Designer,"English, German",Remote,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,81726,DataCamp Track,"English, Spanish",Remote,9,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,81693,PMP,"English, Hindi",Remote,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,64482,Certified UX Designer,"English, Hindi",Remote,8,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,73061,AWS Certified,"English, German",Remote,5,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,77017,Microsoft Azure,"English, Spanish",Onsite,13,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,76350,AWS Certified,"English, Spanish",Onsite,6,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Medium,79373,PMP,"English, Hindi",Remote,6,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,61345,Scrum Master,English,Remote,7,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,68023,DataCamp Track,"English, Spanish",Remote,13,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,64900,DataCamp Track,"English, Spanish",Remote,13,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,89307,Certified UX Designer,"English, Hindi",Remote,8,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,57909,AWS Certified,"English, French",Hybrid,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,70963,Certified UX Designer,"English, Spanish",Onsite,5,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,76575,Scrum Master,"English, Hindi",Hybrid,5,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,77371,AWS Certified,"English, French",Remote,4,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,70202,AWS Certified,"English, French",Hybrid,13,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,91700,AWS Certified,"English, French",Remote,3,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,80515,Certified UX Designer,English,Hybrid,5,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,55657,Scrum Master,English,Remote,4,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,89774,Certified UX Designer,"English, German",Onsite,8,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,91221,None,English,Onsite,8,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,76961,PMP,"English, French",Onsite,9,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,65348,Google Data Analytics,"English, French",Remote,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,79597,Scrum Master,"English, Hindi",Hybrid,4,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,101799,Google Data Analytics,English,Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,65866,Certified UX Designer,"English, Hindi",Remote,12,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,85788,None,English,Onsite,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,57696,Google Data Analytics,"English, Spanish",Hybrid,7,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Medium,73564,Scrum Master,"English, French",Remote,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Medium,67038,AWS Certified,"English, Spanish",Onsite,5,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,79763,Certified UX Designer,"English, German",Onsite,10,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,Low,76648,PMP,"English, Hindi",Remote,5,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,60215,Microsoft Azure,"English, Spanish",Hybrid,1,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,72651,DataCamp Track,"English, German",Remote,9,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,Medium,66320,PMP,"English, French",Onsite,5,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,96047,Certified UX Designer,English,Hybrid,6,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,67186,AWS Certified,"English, Spanish",Onsite,8,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,72122,AWS Certified,"English, French",Remote,2,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,77310,PMP,"English, Hindi",Onsite,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,101709,None,"English, German",Hybrid,10,2
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,68373,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,80701,AWS Certified,"English, German",Onsite,12,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,80515,DataCamp Track,"English, German",Remote,12,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,84810,PMP,"English, Hindi",Onsite,2,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,High,67911,PMP,"English, French",Onsite,5,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,74299,None,English,Hybrid,8,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,85452,Certified UX Designer,"English, Hindi",Remote,12,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,89093,AWS Certified,"English, French",Remote,1,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,85699,Certified UX Designer,"English, Hindi",Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,66451,Google Data Analytics,"English, Spanish",Hybrid,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,70137,Certified UX Designer,"English, Hindi",Remote,12,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,81713,AWS Certified,"English, German",Remote,4,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,60407,Google Data Analytics,"English, French",Remote,8,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,High,96491,None,English,Onsite,6,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,69888,None,"English, German",Remote,5,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,82923,Google Data Analytics,English,Remote,4,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,Low,70660,None,"English, German",Remote,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,72582,AWS Certified,"English, German",Remote,8,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,85172,Google Data Analytics,English,Onsite,6,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,83371,AWS Certified,"English, Spanish",Hybrid,5,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,67756,PMP,"English, French",Onsite,4,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,70150,DataCamp Track,"English, German",Remote,13,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,57467,Microsoft Azure,"English, Spanish",Hybrid,1,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,66112,Certified UX Designer,"English, German",Hybrid,12,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,High,66580,Certified UX Designer,"English, Hindi",Remote,4,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,77657,Google Data Analytics,"English, French",Onsite,4,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,83979,PMP,"English, Hindi",Remote,3,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,71802,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,83862,Certified UX Designer,"English, Spanish",Hybrid,3,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Low,65846,DataCamp Track,English,Onsite,7,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,56616,Microsoft Azure,"English, Spanish",Hybrid,2,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,87785,Google Data Analytics,"English, French",Hybrid,6,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,83142,Google Data Analytics,"English, Hindi",Hybrid,11,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Medium,92160,None,"English, German",Hybrid,10,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,74281,Certified UX Designer,"English, Hindi",Remote,12,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,72000,AWS Certified,"English, German",Onsite,7,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,73686,PMP,"English, French",Onsite,8,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,82647,Certified UX Designer,"English, Spanish",Hybrid,1,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,High,77037,Certified UX Designer,English,Hybrid,3,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,66484,Scrum Master,"English, Hindi",Hybrid,8,3
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Low,66154,Certified UX Designer,"English, Hindi",Remote,8,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,Medium,67507,Certified UX Designer,"English, German",Remote,10,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,56495,Google Data Analytics,"English, German",Hybrid,4,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,68931,Certified UX Designer,"English, Spanish",Hybrid,2,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,92379,Microsoft Azure,"English, Hindi",Remote,3,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,High,69201,None,English,Hybrid,7,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Low,98288,None,"English, German",Hybrid,10,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,73344,PMP,"English, Hindi",Onsite,4,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Low,94217,AWS Certified,"English, Spanish",Hybrid,1,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Medium,89054,Google Data Analytics,English,Onsite,10,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,Low,72356,AWS Certified,"English, German",Remote,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,2,Low,82856,Certified UX Designer,English,Hybrid,4,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,55505,AWS Certified,"English, French",Hybrid,9,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,83397,Microsoft Azure,"English, Spanish",Onsite,11,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,59079,Google Data Analytics,"English, French",Remote,7,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,60366,Google Data Analytics,"English, German",Hybrid,3,4
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,6,High,72926,AWS Certified,"English, Spanish",Onsite,7,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,Low,61021,PMP,"English, French",Onsite,4,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,3,High,67990,Google Data Analytics,"English, German",Hybrid,2,3
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,5,Medium,54232,Google Data Analytics,"English, German",Hybrid,5,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Low,91521,Certified UX Designer,English,Hybrid,2,2
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,5,High,70056,None,English,Hybrid,9,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,6,Medium,100686,Google Data Analytics,"English, German",Onsite,12,2
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,3,High,66422,PMP,"English, French",Onsite,10,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,High,94494,AWS Certified,"English, Spanish",Hybrid,2,4
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Low,77696,Microsoft Azure,"English, Spanish",Onsite,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,4,High,75711,AWS Certified,"English, Spanish",Onsite,5,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Medium,78263,Scrum Master,"English, French",Hybrid,4,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,Low,72480,DataCamp Track,"English, German",Remote,10,3
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,95956,Certified UX Designer,"English, Hindi",Hybrid,4,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,96677,Google Data Analytics,English,Onsite,7,3
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Low,78716,Scrum Master,"English, French",Hybrid,5,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,8,Low,97588,None,"English, German",Hybrid,10,2
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,102580,None,English,Onsite,6,5
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,102754,Microsoft Azure,"English, Hindi",Remote,8,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,Medium,91694,Google Data Analytics,"English, French",Onsite,8,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,92439,Microsoft Azure,"English, Spanish",Onsite,11,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,3,High,81148,Google Data Analytics,"English, Hindi",Hybrid,9,5
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,4,Medium,59728,AWS Certified,"English, French",Hybrid,11,4
+Technical Support Specialist,System Administrator,"Linux, Networking, Shell Scripting",Associate Degree in IT,6,High,65004,Certified UX Designer,"English, Spanish",Onsite,9,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,1,High,71465,None,"English, German",Remote,7,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,Medium,83490,Google Data Analytics,"English, German",Onsite,10,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,5,Low,80750,Google Data Analytics,"English, French",Hybrid,8,3
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,Medium,92178,AWS Certified,"English, Spanish",Hybrid,5,5
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,2,Low,73205,AWS Certified,"English, French",Remote,6,4
+Business Analyst,Product Manager,"JIRA, Excel, SQL, Communication",MBA,7,High,93938,DataCamp Track,"English, Spanish",Onsite,10,5
+Graphic Designer,UI/UX Designer,"Adobe XD, Figma, Photoshop, Illustrator",Bachelor's in Design,7,Medium,78507,DataCamp Track,"English, Spanish",Remote,13,2
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,5,High,84854,Google Data Analytics,"English, Hindi",Hybrid,9,4
+Web Developer,Frontend Engineer,"HTML, CSS, JavaScript, React",Bachelor's in Computer Science,4,Medium,68068,DataCamp Track,"English, German",Remote,13,5
+Data Analyst,Data Scientist,"SQL, Python, Excel, Tableau",Bachelor's in Statistics,4,Medium,77751,Microsoft Azure,"English, Spanish",Onsite,13,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,35341,College Project,"English, Hindi",Onsite,0,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,25088,Online Workshop,"English, Hindi",Onsite,0,5
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,30149,None,"English, French",Onsite,1,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,37166,LinkedIn Learning,English,Hybrid,0,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,29975,Online Workshop,English,Onsite,0,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,27156,None,"English, French",Onsite,0,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,38517,Online Workshop,English,Hybrid,0,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,36118,College Project,"English, French",Hybrid,0,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,28671,College Project,English,Remote,0,3
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,31117,None,"English, Hindi",Remote,0,3
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,33152,Internship Certificate,"English, Hindi",Onsite,2,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,29718,College Project,"English, French",Hybrid,0,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,34061,Online Workshop,"English, Hindi",Onsite,0,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,32500,None,"English, French",Onsite,2,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,37932,None,"English, Hindi",Hybrid,2,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,28358,None,English,Remote,2,5
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,32955,Internship Certificate,"English, Hindi",Remote,0,4
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,27201,College Project,"English, French",Onsite,1,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,39749,LinkedIn Learning,English,Onsite,0,3
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,35369,None,"English, French",Onsite,2,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,25260,College Project,English,Hybrid,0,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,32096,None,English,Onsite,1,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,28775,None,"English, French",Hybrid,0,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,28523,Internship Certificate,"English, Hindi",Hybrid,0,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,30690,Internship Certificate,English,Onsite,1,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,29968,Internship Certificate,"English, Hindi",Onsite,2,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,30982,Internship Certificate,English,Hybrid,1,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,39663,None,English,Remote,2,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,29565,Internship Certificate,English,Hybrid,2,3
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,37946,Internship Certificate,"English, Hindi",Hybrid,2,4
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,28770,College Project,"English, Hindi",Remote,2,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,26002,Online Workshop,"English, Hindi",Onsite,0,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,25130,Internship Certificate,English,Hybrid,1,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,37069,LinkedIn Learning,English,Onsite,1,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,33881,None,"English, French",Hybrid,2,3
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,30559,LinkedIn Learning,"English, Hindi",Hybrid,2,5
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,29343,Online Workshop,"English, Hindi",Hybrid,2,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,28863,Internship Certificate,"English, French",Onsite,1,5
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,26998,Online Workshop,English,Remote,0,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,29059,Internship Certificate,"English, Hindi",Remote,2,3
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,31460,Online Workshop,"English, Hindi",Remote,2,3
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,37346,None,"English, Hindi",Onsite,0,5
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,30432,Online Workshop,English,Remote,1,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,33936,Internship Certificate,English,Onsite,2,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,29845,College Project,"English, Hindi",Remote,1,4
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,36860,Online Workshop,"English, Hindi",Remote,0,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,36235,Internship Certificate,English,Onsite,0,4
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,37688,None,"English, French",Hybrid,2,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,29457,LinkedIn Learning,"English, Hindi",Onsite,2,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,33544,None,English,Hybrid,0,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,33444,None,"English, French",Remote,0,3
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,36779,Internship Certificate,English,Onsite,1,5
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,29270,College Project,"English, French",Onsite,2,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,38225,College Project,"English, Hindi",Hybrid,2,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,29435,LinkedIn Learning,English,Hybrid,2,4
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,34080,College Project,English,Remote,0,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,26245,Internship Certificate,"English, Hindi",Hybrid,2,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,36984,College Project,"English, French",Onsite,0,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,32183,College Project,English,Remote,0,3
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,34493,Online Workshop,"English, Hindi",Onsite,0,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,30922,Internship Certificate,"English, Hindi",Onsite,1,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,33639,Online Workshop,English,Onsite,1,4
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,37784,None,"English, Hindi",Onsite,2,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,37775,LinkedIn Learning,English,Remote,1,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,37677,College Project,"English, Hindi",Hybrid,1,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,31577,College Project,"English, Hindi",Hybrid,2,5
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,33809,None,English,Onsite,1,5
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,28972,Online Workshop,"English, French",Hybrid,0,5
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,28959,Internship Certificate,"English, French",Remote,1,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,36226,Internship Certificate,"English, French",Remote,1,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,30293,Online Workshop,"English, French",Hybrid,2,3
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,36894,College Project,English,Hybrid,2,4
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,25835,Online Workshop,English,Remote,2,5
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,26006,LinkedIn Learning,"English, French",Hybrid,0,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,37257,Online Workshop,"English, French",Hybrid,0,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,34943,Online Workshop,"English, Hindi",Remote,2,5
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,38446,None,"English, Hindi",Onsite,1,4
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,32071,Online Workshop,"English, French",Remote,2,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,25343,College Project,"English, Hindi",Hybrid,2,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,38190,Online Workshop,"English, French",Hybrid,2,3
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,30001,College Project,English,Hybrid,1,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,33207,Internship Certificate,English,Hybrid,1,4
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,39954,LinkedIn Learning,English,Onsite,1,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,25619,College Project,"English, Hindi",Remote,0,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,34238,College Project,"English, French",Hybrid,2,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Low,28861,None,English,Hybrid,1,4
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,34881,College Project,English,Hybrid,2,5
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Low,29717,Internship Certificate,"English, Hindi",Remote,1,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,31935,Internship Certificate,"English, French",Onsite,0,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Medium,36155,Internship Certificate,"English, Hindi",Hybrid,0,5
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,35161,Online Workshop,English,Hybrid,0,3
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Medium,32928,None,"English, Hindi",Hybrid,2,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,31000,None,"English, Hindi",Remote,0,3
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Low,39717,Online Workshop,"English, French",Hybrid,2,4
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,29083,None,"English, French",Remote,2,3
+Intern - Data Analyst,Junior Data Analyst,"Excel, SQL, Communication",Bachelor's in Computer Science,0,Medium,33381,Internship Certificate,English,Remote,2,3
+Intern - Web Developer,Frontend Developer,"HTML, CSS, JavaScript",Bachelor's in IT,0,Low,27257,LinkedIn Learning,"English, Hindi",Onsite,1,3
+Support Trainee,Technical Support Engineer,"Linux, Helpdesk, CRM Tools",Bachelor's in Business,0,Medium,35615,Online Workshop,English,Remote,2,4
+Graphic Intern,Junior UI/UX Designer,"Canva, Figma, Adobe XD",Bachelor's in Design,0,Medium,25960,Internship Certificate,"English, Hindi",Hybrid,1,5
+Marketing Assistant,Marketing Analyst,"Social Media, Analytics, Email Campaigns",Bachelor's in Marketing,0,Low,29261,Online Workshop,English,Remote,1,4
