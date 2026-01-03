@@ -30,7 +30,7 @@ def safe_load_pickle(path):
         return None
 
 
-def safe_load_joblib(path):
+def safe_load_pickle(path):
     import joblib
     try:
         return joblib.load(path)
